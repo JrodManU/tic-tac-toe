@@ -1,1 +1,2 @@
 # tic-tac-toe
+This game was built while following The Odin Project. The code is quite hackish since this is my first time working with a project like this in Ruby. But it works :) As a bonus, I made it support any size of board!
